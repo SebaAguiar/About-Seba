@@ -5,8 +5,8 @@
 
 my knowledge:
 <p align="left">  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" title="JavaScript" width="40" height="40"/> </a> 
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TypeScript" title="TypeScript" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://live.mrf.io/statics/i/ps/www.muylinux.com/wp-content/uploads/2019/01/mongodb.png?width=1200&enable=upscale" alt="MongoDB" title="MongoDB" height="40"/> </a>
-<a href="https://mongoosejs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" alt="mongoose" title="mongoose" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" title="PostgreSQL" width="40" height="40"/> </a>
 <a href="https://expressjs.com" target="_blank"> <img src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" alt="express" title="Express Js" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" alt="nodejs" title="Node Js" height="40"/> </a>
