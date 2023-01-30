@@ -21,7 +21,7 @@ my knowledge:
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" title="VSCode" width="40" height="40"/> </a> 
 </p>
 
-My next goal is to get my first job so I can put my knowledge in use.
+My next goal is to get my first job so I can use my knowledges.
 
 :telephone_receiver: If you need my services or want to know more about me, contact me and we will schedule a meeting.
 
