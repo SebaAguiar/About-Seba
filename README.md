@@ -3,7 +3,7 @@
 
 #### Hello, I'm Sebastian, but you can call me Seba. I'm a full-stack web developer and have a great ability to solve problems. I'm a person who can quickly adapt to teams and always looks for the team unity.
 
-my knowledge:
+my knowledge includes:
 <p align="left">  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" title="JavaScript" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TypeScript" title="TypeScript" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://live.mrf.io/statics/i/ps/www.muylinux.com/wp-content/uploads/2019/01/mongodb.png?width=1200&enable=upscale" alt="MongoDB" title="MongoDB" height="40"/> </a>
