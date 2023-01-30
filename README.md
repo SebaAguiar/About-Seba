@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-##### Hello, I'm Sebastian, but you can call me Seba. I'm a full-stack web developer and have a great ability to solve problems. I'm a person who can quickly adapt to teams and always looks for the team unity.
+#### Hello, I'm Sebastian, but you can call me Seba. I'm a full-stack web developer and have a great ability to solve problems. I'm a person who can quickly adapt to teams and always looks for the team unity.
 
 my knowledge:
 <p align="left">  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" title="JavaScript" width="40" height="40"/> </a> 
@@ -25,7 +25,7 @@ My next goal is to get my first job so I can put my knowledge in use.
 
 :telephone_receiver: If you need my services or want to know more about me, contact me and we will schedule a meeting.
 
-iphone MOBILE: +54 9 3442 536874 
+:iphone: MOBILE: +54 9 3442 536874 
 
 :email: MAIL: sebaaguiar08@gmail.com 
 
