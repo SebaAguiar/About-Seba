@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a Fullstack developer with experience in developing web and mobile applications using MongoDB, Mongoose, PostgreSQL, Sequelize, Express.js, Nest.js, React.js, Redux.js, JavaScript, and TypeScript. Experienced in using Postman and Git. Has worked on projects focused on the areas of Health, E-Commerce, and Gaming.
+I’m a Backend developer with experience in developing servers for web and mobile applications using MongoDB, Mongoose, PostgreSQL, Sequelize, Express.js, Nest.js, JavaScript and TypeScript. Experience using Postman and Git.
 
 
 ## 🌐 Socials:
